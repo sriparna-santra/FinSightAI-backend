@@ -3,8 +3,7 @@ uvicorn
 pypdf
 langchain
 langchain-community
-langchain-text-splitters
-faiss-cpu
 sentence-transformers
-google-generativeai
+faiss-cpu
 python-dotenv
+google-generativeai
